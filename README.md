@@ -7,6 +7,7 @@ code in Polish
 Simply execute the program and add the text you want to translate after it's name ./Morse.sh SOS
 
 There are some optional flags you might want to use:
+
             -h/--help  : show help (in Polish)
             
             -r/--readfrom filename : load a message which is to be translated from a txt file
