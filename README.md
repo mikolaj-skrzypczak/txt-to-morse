@@ -1,10 +1,10 @@
 # text_to_morse_code
-Bash script converting text from arguments to morse code with a optional flag to play sounds, write output to .txt, read input from.txt or to set own alfabet.
+Bash script converting text from arguments to morse code with optional flags to play sounds, write output to .txt, read input from.txt or to set own alfabet.
 
 code in Polish
 
 ### how to use
-Simply execute the program and add the text you want to translate after it's name ./Morse.sh SOS
+Simply execute the program and add the text you want to translate after it's name, for example: ./Morse.sh SOS
 
 There are some optional flags you might want to use:
 
