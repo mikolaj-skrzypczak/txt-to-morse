@@ -1,4 +1,4 @@
-# text_to_morse_code
+# Text to morse code
 Bash script converting text from arguments to morse code with optional flags to play sounds, write output to .txt, read input from.txt or to set own alfabet.
 
 code in Polish
